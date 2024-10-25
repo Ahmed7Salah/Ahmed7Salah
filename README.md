@@ -36,7 +36,7 @@ I enjoy exploring and learning new technologies, and I have worked on several ex
 
 ### 🌐 Find Me Online
 
-- **Portfolio:** [https://ahmed7salah.github.io/portfolio/](https://ahmed7salah.github.io/portfolio/)
+- **Portfolio:** [**Portfolio:**](https://ahmed7salah.github.io/portfolio/)
 - **LinkedIn:** [www.linkedin.com/in/ahmed7salah](https://www.linkedin.com/in/ahmed7salah)
 - **Upwork:** [https://www.upwork.com/freelancers/~01bc9a54adbdd47f4c?mp_source=share](https://www.upwork.com/freelancers/~01bc9a54adbdd47f4c?mp_source=share)
 - **Freelancer:** [https://www.freelancer.com/u/Ahmed7Salah](https://www.freelancer.com/u/Ahmed7Salah)

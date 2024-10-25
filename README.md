@@ -20,7 +20,9 @@ I enjoy exploring and learning new technologies, and I have worked on several ex
 ### 💼 Projects
 
 - **SkillStream:** A platform connecting educators and learners, featuring user authentication with JWT and a streamlined user experience for content browsing and progress tracking.
+  [**View**](https://skill-stream-navy.vercel.app/)
 - **Supra Flow:** A responsive homepage clone of React Navigation, built with React and TailwindCSS, optimized for all devices.
+  [**View**](https://supra-flow.vercel.app/)
 
 ### 🚀 Skills & Tools
 
@@ -36,10 +38,10 @@ I enjoy exploring and learning new technologies, and I have worked on several ex
 
 ### 🌐 Find Me Online
 
-- **Portfolio:** [**Portfolio:**](https://ahmed7salah.github.io/portfolio/)
-- **LinkedIn:** [www.linkedin.com/in/ahmed7salah](https://www.linkedin.com/in/ahmed7salah)
-- **Upwork:** [https://www.upwork.com/freelancers/~01bc9a54adbdd47f4c?mp_source=share](https://www.upwork.com/freelancers/~01bc9a54adbdd47f4c?mp_source=share)
-- **Freelancer:** [https://www.freelancer.com/u/Ahmed7Salah](https://www.freelancer.com/u/Ahmed7Salah)
+- [**Portfolio**](https://ahmed7salah.github.io/portfolio/)
+- [**LinkedIn**](https://www.linkedin.com/in/ahmed7salah)
+- [**Upwork**](https://www.upwork.com/freelancers/~01bc9a54adbdd47f4c?mp_source=share)
+- [**Freelancer**](https://www.freelancer.com/u/Ahmed7Salah)
 
 ---
 
